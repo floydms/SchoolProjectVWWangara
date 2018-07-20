@@ -12,6 +12,6 @@ return false;
 }
             function changeImage3(){
          var img = document.getElementById("myImage");
-          img.src="img/ArtB.jpg";
+          img.src="https://floydms.github.io/SchoolProjectVWWangara/img/ArtB.jpg";
           return false;
 }
