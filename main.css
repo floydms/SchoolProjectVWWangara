@@ -19,11 +19,11 @@ background-image: url("white.png");
 #PCsubmit{
     background-color:#778899;
     border: 2px solid #4B0082;
-    color: #FFF;
+    color: black;
     text-align: center;
+    font-weight: bold;
     -webkit-border-radius: 4px;
     -moz-border-radius: 4px;
     border-radius: 4px;
-    padding: 10px;
-    }
-
+    padding: 10px; 
+}
