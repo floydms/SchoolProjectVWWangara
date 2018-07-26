@@ -1,21 +1,25 @@
-function changeImage()
+function ArtR()
 {
 var img = document.getElementById("myImage");
 img.src="https://floydms.github.io/SchoolProjectVWWangara/img/ArtR.jpg"
 return false;
 }
-            function changeImage2()
+            function ArtBl()
 {
 var img = document.getElementById("myImage");
 img.src="https://floydms.github.io/SchoolProjectVWWangara/img/ArtBl.jpg";
 return false;
 }
-            function changeImage3(){
+            function ArtB(){
          var img = document.getElementById("myImage");
           img.src="https://floydms.github.io/SchoolProjectVWWangara/img/ArtB.jpg";
           return false;
 }
-
+  function ArtW(){
+         var img = document.getElementById("myImage");
+          img.src="https://floydms.github.io/SchoolProjectVWWangara/img/ArtW.jpg";
+          return false;
+}
 function postcode() {
     var x, text;
 
